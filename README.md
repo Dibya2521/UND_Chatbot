@@ -1,1 +1,1 @@
-# AI-Chatbot
+Chatbot using RAG process. Data is scraped from the websites. Then the data stored in a file and then converted to vector to stored in a vector database. then similarity search will be done for a query to identify relevant response and generate a response

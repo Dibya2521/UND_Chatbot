@@ -5,10 +5,16 @@ class QueryHandler:
         self.db = db_manager
 
     @time_it
-    def handle(self, query):
+    def handle(self, query, memory=None):
         try:
             docs = self.db.search(query)
             context = self._format_context(docs)
+            
+            # If memory is provided and has current_context, include it in the search
+            if memory and hasattr(memory, 'current_context') and memory.current_context:
+                context_docs = self.db.search(memory.current_context)
+                context += "\n\n" + self._format_context(context_docs)
+            
             logger.info(f"Handled query: '{query}' with {len(docs)} relevant docs")
             return context
         except Exception as e:

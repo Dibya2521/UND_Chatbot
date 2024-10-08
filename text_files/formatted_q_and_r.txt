@@ -1,0 +1,500 @@
+query: What is the current enrollment growth at UND?
+response: In fall 2024, UND welcomed 23% more new freshmen, contributing to a 6% overall increase in student enrollment. This marks the university's strongest growth in 11 years.
+
+query: How does UND compare to national trends in student enrollment?
+response: While UND is experiencing growth, other universities are seeing enrollment declines. Nationwide, graduate and undergraduate enrollment fell by 7% from spring 2019 to spring 2023.
+
+query: What opportunities does UND provide to help students become leaders?
+response: UND develops future leaders through workforce-ready programs like InternGF and Accelerate to Industry (A2i), preparing students to meet the changing needs of the world.
+
+query: What diversity and inclusion initiatives does UND have?
+response: UND actively fosters a sense of inclusion and belonging on campus, honoring diverse peoples, perspectives, and ideas. The university also acknowledges the Indigenous land on which it resides and supports initiatives such as Veteran & Military Services, Disability Resources, and awareness programs like the Clothesline Project.
+
+query: Can you tell me about UND's economic impact?
+response: UND provides $1.7 billion in overall economic impact to the state and region. In 2023, UND's research funding contributed $3 million, while its statewide economic impact from research alone was $4 million.
+
+query: What is the mission and vision of UND?
+response: UND's mission is to provide exceptional educational experiences that enrich the lives of North Dakotans and the global community. Its vision is to inspire wonder, foster discovery, and cultivate a commitment to serve.
+
+query: What majors and programs does UND offer?
+response: UND offers 225+ accredited on-campus and online degrees, including Elementary Education, Unmanned Aircraft Systems Operations, Data Science, and Economics.
+
+query: Can you tell me about the Leaders in Action program at UND?
+response: The Leaders in Action program at UND highlights students who lead by example, such as twin brothers John and Ryan Bergum, who are continuing their family's legacy in civil engineering.
+
+query: What is the average financial aid amount received by students at UND?
+response: The average financial aid amount received by students at UND is approximately $12,000.
+
+query: How many students enrolled in fall 2024 at UND?
+response: In fall 2024, UND welcomed 23% more new freshmen, contributing to a 6% overall increase in student enrollment.
+
+query: Which states and regions are students at UND from?
+response: Students at UND hail from 46 states, Washington, D.C., multiple military bases, and six Canadian provinces.
+
+query: How does UND’s enrollment compare to the national trend?
+response: While UND is experiencing enrollment growth, nationwide graduate and undergraduate enrollment fell 7% between spring 2019 and spring 2023, according to the National Student Clearinghouse Research Center.
+
+query: What programs help UND students become workforce-ready?
+response: UND offers programs like InternGF and Accelerate to Industry (A2i) to prepare students for the workforce.
+
+query: What is the mission of UND?
+response: The mission of UND is to provide exceptional educational experiences that enrich the lives of North Dakotans and the global community through excellence in teaching, innovative research, and meaningful engagement.
+
+query: What is the vision of UND?
+response: UND's vision is to inspire a sense of wonder, a love of discovery, and a commitment to serve. The university fosters creativity, research, and innovation to overcome challenges while promoting a commitment to community service.
+
+query: What is UND's economic impact?
+response: UND provides $1.7 billion in overall economic impact to the state and region, including $4 million annually in statewide economic impact from its research.
+
+query: What makes UND unique in North Dakota?
+response: UND is the only university in North Dakota with both law and medical schools, and it has the top graduate school in the state.
+
+query: How does UND promote diversity and inclusion?
+response: UND takes active steps to ensure inclusion among all members of its community. It values diverse peoples, perspectives, and ideas and offers dedicated student support services to promote equity.
+
+query: What is UND’s Land Acknowledgment?
+response: UND acknowledges that Grand Forks, North Dakota, is the land of the Pembina and Red Lake Bands of Ojibwe and the Dakota Oyate people.
+
+query: What is UND's #UNDproud campaign?
+response: #UNDproud is a social media campaign that encourages members of the UND community to share their pride in the university. It highlights achievements and events at UND.
+
+query: What programs does UND offer in education?
+response: UND offers an Elementary Education program that prepares students to teach grades 1-8.
+
+query: Does UND offer any unique programs in aviation?
+response: Yes, UND offers a Unmanned Aircraft Systems Operations (UAS) program, which is at the cutting edge of the UAS industry.
+
+query: What is the Data Science program at UND?
+response: UND’s Data Science program trains students to drive positive business decisions through the use of meaningful data.
+
+query: What is a notable program offered in economics?
+response: UND offers an Economics program that provides a gateway to careers in law, business, and various other fields.
+
+query: Who is the president of UND?
+response: Dr. Andrew Armacost is the 13th president of the University of North Dakota, serving as the Chief Executive Officer of the university since June 1, 2020.
+
+query: What is President Armacost's leadership philosophy?
+response: President Armacost’s leadership philosophy includes five key principles: love your people, support students, foster learning with wonder, recognize individual greatness, and treat everyone with dignity and respect.
+
+query: What is the accreditation status of UND?
+response: UND has been continuously accredited by the Higher Learning Commission (HLC) since 1913. The university’s accreditation was reaffirmed in 2024, with the next review scheduled for 2033-34.
+
+query: Can you tell me about UND's first graduating class?
+response: UND’s first graduating class in 1889 consisted of six women and two men. Notably, Dr. Cora Smith King became the first woman to receive a medical license in North Dakota.
+
+query: What are some key areas where UND has shown leadership?
+response: UND has been a leader in fields such as aerospace, health sciences, energy, and environmental protection. The university has also made significant contributions to social change, with alumni like Era Bell Thompson and Judge Ronald Davies making impactful strides in racial and gender equality.
+
+query: Who can I contact for undergraduate admissions?
+response: You can reach out to the Undergraduate Admissions Office at 701.777.3000 or email admissions@UND.edu.
+
+query: What is the contact information for graduate admissions?
+response: For Graduate Admissions, you can call 701.777.3000 or email gradschooladmissions@UND.edu.
+
+query: How can military and veteran students get in touch?
+response: Military & Veteran Students can contact the office at 701.777.3363 or email vets@UND.edu.
+
+query: What is the contact information for the medical school admissions?
+response: You can contact the Medical School at 701.777.4221 or email UNDmed.admissions@med.UND.edu.
+
+query: How do I reach the School of Law admissions office?
+response: You can call the School of Law at 701.777.2047 or email admissions@law.UND.edu.
+
+query: What are some resources for health and safety information at UND?
+response: You can find health and safety resources through SafeUND, which connects you to information, resources, and support. More details can be found on the SafeUND page.
+
+query: How does UND respond to safety reports?
+response: UND reviews every report regarding sexual misconduct, harassment, discrimination, and other incidents. You can learn more about their response procedures on the UND Safety page.
+
+query: What is the significance of Grand Forks in relation to UND?
+response: Grand Forks is a vibrant college town that offers a friendly and safe living environment, with excellent educational opportunities and job prospects. It has a strong relationship with UND, contributing to the overall campus and community well-being.
+
+query: What activities can I expect in Grand Forks during the summer?
+response: During the summer, many residents enjoy outdoor activities and spend time at local lakes. The weather is typically warm and sunny, making it perfect for various events and gatherings.
+
+query: What is the average snowfall in Grand Forks during winter?
+response: Grand Forks averages about 42 inches of snowfall each year, so it's important to prepare for chilly weather during the winter months.
+
+query: How is Grand Forks recognized as a college town?
+response: Grand Forks has been recognized as one of the best college towns in North Dakota, offering a blend of educational excellence, community support, and a vibrant social scene.
+
+query: Who was the first president of UND?
+response: William M. Blackburn served as the first president of UND from 1884 to 1885. He was known for advocating a more practical curriculum suited to the needs of the Dakota Territory.
+
+query: What changes did Homer B. Sprague implement during his presidency?
+response: Homer B. Sprague, president from 1887 to 1891, changed admissions requirements to increase enrollment, established military training and athletic programs, and encouraged good citizenship.
+
+query: What were Webster Merrifield's contributions to UND?
+response: Webster Merrifield, president from 1891 to 1909, established new programs including the School of Law and School of Medicine and focused on improving North Dakota's secondary school system.
+
+query: What did Frank L. McVey emphasize during his tenure?
+response: Frank L. McVey, who served from 1909 to 1917, emphasized a strong work ethic, faculty morale, and research. His motto was 'To Be A Servant of the People,' highlighting his commitment to serving the state.
+
+query: What significant advancements occurred under Thomas F. Kane's presidency?
+response: Thomas F. Kane, president from 1918 to 1933, established the School of Commerce and Graduate Division, created the Dean of Men positions, and promoted academic freedom while overseeing significant expansion.
+
+query: How did John C. West contribute during challenging times?
+response: John C. West served as president from 1933 to 1954, guiding UND through the Great Depression and World War II. He implemented New Deal programs and is remembered for maintaining harmony at the University.
+
+query: What modernizations did George W. Starcher bring to UND?
+response: George W. Starcher, president from 1954 to 1971, modernized the University by creating advisement programs, the Honors Program, and establishing schools for humanities, computer science, and aviation.
+
+query: What were the key achievements of Thomas J. Clifford?
+response: Thomas J. Clifford, who served from 1971 to 1992, led UND to become the largest institution in a five-state area and established the M.D. program for the School of Medicine and Health Sciences.
+
+query: How did Kendall L. Baker respond to the 1997 flood?
+response: Kendall L. Baker, president from 1992 to 1999, played a crucial role in protecting the University during the 1997 flood and helped provide housing for those affected while leading recovery efforts.
+
+query: What expansions occurred during Charles E. Kupchella's presidency?
+response: Charles E. Kupchella, president from 1999 to 2008, oversaw significant expansions, including the Ralph Engelstad Arena and the Student Wellness Center, while leading UND into a new millennium.
+
+query: What was Robert O. Kelley's vision for UND?
+response: Robert O. Kelley, who served from 2008 to 2016, implemented the _Exceptional UND_ vision, which included record enrollment, the transition to NCAA Division I athletics, and substantial campus expansions.
+
+query: How did Mark R. Kennedy's leadership address budget cuts?
+response: Mark R. Kennedy, president from 2016 to 2019, managed significant budget cuts while implementing the 'One UND' Strategic Plan, which solidified the University’s position as the state's chief opportunity engine.
+
+query: How did William M. Blackburn influence the curriculum at UND?
+response: William M. Blackburn advocated for a practical curriculum, emphasizing mechanics and agriculture, which were relevant to the needs of the Dakota Territory.
+
+query: What initiatives did Homer B. Sprague support to improve student life?
+response: Homer B. Sprague established military training and athletic programs, promoting physical fitness and discipline among students, which contributed to a well-rounded education.
+
+query: What was a hallmark of Webster Merrifield's leadership?
+response: Webster Merrifield was known for his dedication to high academic standards, which led to the establishment of new colleges and a focus on improving secondary education in North Dakota.
+
+query: What legacy did Frank L. McVey leave at UND?
+response: Frank L. McVey's legacy includes a focus on research and publication, which enhanced faculty morale and contributed to the University's academic reputation during his presidency.
+
+query: How did Thomas F. Kane's administration impact academic programs?
+response: Thomas F. Kane's administration saw the establishment of significant academic programs, including the School of Commerce, which broadened the educational offerings at UND.
+
+query: In what ways did John C. West foster community at UND?
+response: John C. West fostered community at UND by implementing programs that supported veterans during and after World War II, thus integrating them into campus life and ensuring their needs were met.
+
+query: What innovations did George W. Starcher introduce for student support?
+response: George W. Starcher introduced an advisement program for freshmen, enhancing student support and academic success during their transition to university life.
+
+query: What major developments occurred under Thomas J. Clifford's administration?
+response: Thomas J. Clifford's administration saw the establishment of the M.D. program and a significant expansion of academic programs, which bolstered the University’s reputation and service to the state.
+
+query: How did Kendall L. Baker ensure community support during the flood recovery?
+response: Kendall L. Baker opened UND's facilities to those displaced by the 1997 flood, providing shelter and support, which helped strengthen community ties during the recovery process.
+
+query: What strategic vision did Charles E. Kupchella implement for UND?
+response: Charles E. Kupchella's strategic vision focused on enhancing the academic environment and facilities, resulting in significant campus improvements and new construction projects.
+
+query: What was Robert O. Kelley's approach to increasing enrollment?
+response: Robert O. Kelley focused on strategic marketing and outreach efforts that led to record enrollment numbers, enhancing the University's academic profile and diversity.
+
+query: What major initiatives were introduced during Mark R. Kennedy's presidency?
+response: Mark R. Kennedy introduced the 'One UND' Strategic Plan, aimed at unifying the University's efforts and resources to strengthen academic programs and community engagement.
+
+query: What challenges did Mark R. Kennedy face during his presidency?
+response: Mark R. Kennedy faced budget cuts due to economic slowdowns, yet he successfully implemented the 'One UND' Strategic Plan to unify and strengthen the University's position.
+
+query: What is the vision of UND LEADS?
+response: The vision of UND LEADS is to inspire a sense of wonder, a love of discovery, and a commitment to serve.
+
+query: What is the mission of UND?
+response: The mission of UND is to provide exceptional educational experiences that enrich the lives of North Dakotans and the global community through excellence in teaching, innovative research, and meaningful engagement.
+
+query: What are the core values of UND?
+response: The core values of UND include Learning, Equity, Affinity, Discovery, and Service, which form the pillars of the UND LEADS Strategic Plan.
+
+query: What strategic priorities are highlighted in the recent news updates?
+response: The recent news updates highlight strategic priorities like fostering a global perspective for student engagement and leadership, promoting digital technologies for engaged learning, and enhancing UND's role as an economic engine.
+
+query: What feedback mechanisms are in place for the UND LEADS implementation?
+response: UND welcomes feedback on the implementation of the strategic plan or on UND LEADS through a dedicated feedback page on their website.
+
+query: How does President Armacost envision community collaboration?
+response: President Armacost envisions community collaboration as essential, stating that how we coordinate and work together can create a beautiful painting of a thriving community.
+
+query: Where can I find more information about the UND LEADS Strategic Plan?
+response: More information about the UND LEADS Strategic Plan can be found on the official UND website, specifically in the strategic plan section.
+
+query: When was the University of North Dakota founded?
+response: The University of North Dakota was founded in 1883, six years before the state itself was established.
+
+query: What is the location of UND?
+response: The University of North Dakota is located in Grand Forks, North Dakota.
+
+query: What is the current enrollment at UND?
+response: The current enrollment at the University of North Dakota is 15,019.
+
+query: How many benefited employees does UND have?
+response: The University of North Dakota has over 2,700 benefited employees.
+
+query: What accreditation does UND have?
+response: The University of North Dakota is accredited by the Higher Learning Commission (HLC).
+
+query: What is UND's Carnegie Classification?
+response: The Carnegie Classification for the University of North Dakota is RU H (Research Universities - High Activity).
+
+query: What recognition has UND received for its academic programs?
+response: UND has earned national recognition for its academic programs and serves the largest number of exclusively online students among nonprofit flagship universities in the eight-state region.
+
+query: What is the Fall '23 to '24 retention rate at UND?
+response: The Fall '23 to '24 retention rate at UND is 92%, a record high among all NDUS institutions.
+
+query: What is the average class size at UND?
+response: The average class size at the University of North Dakota is 20.
+
+query: How many NCAA Division I athletics teams does UND have?
+response: The University of North Dakota has 18 NCAA Division I athletics teams.
+
+query: How many student clubs and organizations are there at UND?
+response: There are over 300 student clubs and organizations at the University of North Dakota.
+
+query: Why is UND considered a best value university?
+response: UND is increasingly regarded as one of the top institutions in the nation for educational quality, affordability, and career outcomes, ranking #151 by the National Science Foundation.
+
+query: What resources are available for safety at UND?
+response: UND provides several safety resources and is ranked as the safest college in North Dakota, working diligently to reduce risks and potential crime.
+
+query: How can I schedule a visit to UND?
+response: You can schedule a visit to the University of North Dakota through the admissions page on their website.
+
+query: What makes UND's campus beautiful?
+response: UND is recognized as one of the most beautiful colleges in the Midwest, continuously improving its campus aesthetics.
+
+query: What opportunities does UND offer for academic exploration?
+response: UND offers an interactive program finder to explore over 225 academic programs available at the university.
+
+query: What national ranking does UND hold for online education?
+response: UND serves the largest number of exclusively online students among all nonprofit flagship universities in the eight-state region.
+
+query: How does UND's enrollment trend compare nationally?
+response: UND's enrollment continues to grow, defying national trends in higher education.
+
+query: What distinguishes UND's engineering and aviation programs?
+response: UND has emerged as a leader in engineering, medicine, aviation, space, and unmanned aircraft systems.
+
+query: What does UND do to ensure campus safety?
+response: UND works diligently to reduce the risk and potential for crime and offers various safety resources for students.
+
+query: Where can I find more information about UND's student body profile?
+response: You can find more information about UND's student body profile on the university's analytics and planning page.
+
+query: How can I explore majors and degrees at UND?
+response: You can explore all 225+ academic programs at UND using the interactive program finder available on their website.
+
+query: What recognition has UND received for affordability and career outcomes?
+response: UND is increasingly regarded as one of the top institutions in the nation for educational quality, affordability, and career outcomes.
+
+query: How can I use Google Maps to view the UND campus?
+response: You can take a look around the UND campus using Street View on the Google Map available on the university's website.
+
+query: What is the significance of the UND's establishment date?
+response: The establishment of UND in 1883 is significant as it predates North Dakota's statehood, contributing to the naming of the state.
+
+query: How much did enrollment grow at UND in fall 2024?
+response: In fall 2024, UND welcomed 25% more new freshmen as part of a 6% jump in overall student enrollment.
+
+query: Where are the new students at UND coming from?
+response: New students at UND hail from 46 states, Washington, D.C., multiple military bases, and six Canadian provinces.
+
+query: How does UND's enrollment growth compare to national trends?
+response: UND is experiencing growth while other schools report enrollment declines, with national graduate and undergraduate enrollment falling 7% from spring 2019 to spring 2023.
+
+query: How does UND prepare its students for future leadership roles?
+response: UND prepares future leaders through workforce-ready programs such as InternGF and Accelerate to Industry (A2i).
+
+query: What can I find on the 'Meet Our Students' page?
+response: The 'Meet Our Students' page showcases how UND students become Leaders in Action.
+
+query: What steps does UND take to promote inclusion on campus?
+response: UND takes active steps to ensure a sense of inclusion among all members of the campus community.
+
+query: What is the significance of the land where UND is located?
+response: Grand Forks, North Dakota, is the land of the Pembina and Red Lake Bands of Ojibwe and the Dakota Oyate people.
+
+query: What unique programs does UND offer in North Dakota?
+response: UND is the only university in North Dakota with law and medical schools and has the top graduate school in the state.
+
+query: What economic impact does UND have on the state?
+response: UND provides a $1.7 billion overall economic impact to the state and region.
+
+query: How much research funding did UND receive in 2023?
+response: UND received $6 million in research funding in 2023.
+
+query: What is the annual economic impact of UND research?
+response: The annual state-wide economic impact of UND research is $10 million.
+
+query: What is UND's mission?
+response: UND's mission is to provide exceptional educational experiences that enrich lives through excellence in teaching, innovative research, and meaningful engagement.
+
+query: What is the vision of UND?
+response: UND's vision is to inspire a sense of wonder, a love of discovery, and a commitment to serve.
+
+query: Where can I find the latest news about UND?
+response: You can get the latest UND news by visiting the 'UND Today' page or the 'News Hub' on the university's website.
+
+query: Where can I get general tech support at UND?
+response: For general tech support, you can visit the Tech Support website.
+
+query: How do I get support for Modern Campus or WordPress?
+response: For support with Modern Campus (OmniUpdate) or WordPress, you need to submit a Web Support Ticket.
+
+query: How can I provide feedback about the UND website?
+response: You can provide feedback about the UND website through the feedback submission form, and a member of the UND Web Team will contact you.
+
+query: What is UND's policy regarding cookies on their website?
+response: UND uses cookies on its site to enhance user experience, and by clicking any link on the page, you consent to the use of cookies.
+
+query: What kind of resources does UND provide for student safety?
+response: UND has several safety resources to reduce crime risk and ensure student safety on campus.
+
+query: How can I explore the campus before visiting?
+response: You can take a look around campus using Street View on Google Maps.
+
+query: What financial assistance is available for Federal, State, and Institutional Programs?
+response: Financial assistance is available through various programs, including grants, loans, and scholarships for both undergraduate and graduate students.
+
+query: Can I charge books at the University Bookstore?
+response: Yes, you can charge books and related supplies using anticipated financial aid disbursement during a specific period of time each semester.
+
+query: What happens if my financial aid exceeds the amount owed to UND?
+response: If your financial aid exceeds your owed amount, you will receive the excess funds based on your selected refund preference via Nelnet Quikpay in Campus Connection.
+
+query: How do I find Federal Work-Study positions?
+response: You can visit the Student Employment page to view and apply for Federal Work-Study positions.
+
+query: What happens to my financial aid if I withdraw from all classes?
+response: If you withdraw, you may only keep the portion of aid earned up to the time of withdrawal, and any excess must be returned.
+
+query: How is my official withdrawal date determined?
+response: The date you submit the Withdraw to Zero Credits form on Campus Connection is used for R2T4 calculation purposes.
+
+query: What if I stop attending classes without officially withdrawing?
+response: If you stop attending, the last date of participation will be used for R2T4 calculation, based on grades reported by the instructor.
+
+query: How is the return of funds calculated after withdrawal?
+response: Student Finance divides the number of days attended by the total days in the semester to determine the percentage of aid earned.
+
+query: Where can I find information on Satisfactory Academic Progress policies?
+response: You can find UND's Satisfactory Academic Progress policies and procedures on their website.
+
+query: Where can I find information about athletic program participation rates?
+response: Information on athletic program participation rates is available by request, and you can review UND's report on their athletics compliance page.
+
+query: Is exit loan counseling required?
+response: Yes, online exit counseling is required for all borrowers of federal and University-administered student loan programs.
+
+query: Where can I find campus security policies and crime statistics?
+response: You can find campus security policies and crime statistics in the Crime Statistics and Annual Fire and Safety Report.
+
+query: What is UND's commitment to Title IX?
+response: The Equal Opportunity & Title IX office at UND is committed to reducing or eliminating barriers to educational and employment opportunities caused by sex discrimination.
+
+query: How can I contact the University of North Dakota?
+response: You can contact the University of North Dakota at 701-777-3000 or via email at UND.info@UND.edu.
+
+query: What is the cookie policy on the UND website?
+response: The UND website uses cookies to enhance user experience, and by clicking any link on the page, you consent to the use of cookies.
+
+query: What safety resources does UND provide to students?
+response: UND provides various safety resources, including the SafeUND program, which offers information, support, and emergency contacts for students.
+
+query: What resources does UND provide for student safety?
+response: UND provides several resources for student safety, including crime prevention programs and safety tips.
+
+query: How can I exit the UND website?
+response: You can exit the UND website by clicking the exit link at the bottom of the page.
+
+query: What services are available for conferences and events at UND?
+response: UND offers various services for conferences, camps, and events. You can find more details on their Conferences page.
+
+query: What services does Conference, Camp & Event Services provide?
+response: Conference, Camp & Event Services provides comprehensive planning and management services customized to meet your unique needs, including full-scale conference planning, online registration forms, and payment services.
+
+query: How can I ensure my event is successful at UND?
+response: You can familiarize yourself with the information and approval forms needed for your event by following the link to the UND Guide for a Successful Event.
+
+query: What upcoming conferences are there at UND?
+response: Upcoming conferences at UND include the 2024 North Dakota Geospatial Summit on September 25-26, the South Dakota Infection Control Conference on October 3-4, and the ND Water & Pollution Control Conference on October 14-16.
+
+query: What are the terms of use for the UND website?
+response: The terms of use for the UND website include principles of academic freedom and shared governance, the handling of personal information, and the use of cookies.
+
+query: What is UND's privacy policy regarding personal information?
+response: UND collects Personally Identifiable Information (PII) only when provided directly by the visitor and maintains confidentiality by not sharing or selling this information to third parties.
+
+query: What is the cookie policy on the UND website?
+response: The UND website uses cookies to enhance user experience, and by clicking any link on the page, you consent to set cookies.
+
+query: Where can I find Conference & Event Services at UND?
+response: Conference & Event Services is located in O'Kelly Hall, Room 300, 221 Centennial Drive, Stop 9021, Grand Forks, ND 58202.
+
+query: What services do Conference, Camp & Event Services offer for event planning?
+response: Conference, Camp & Event Services offers comprehensive event planning and management services, including budget development, presenter arrangements, continuing education credits, facility and food arrangements, marketing services, registration services, on-site event coordination, and post-event analysis.
+
+query: How can I submit a request for conference planning?
+response: You can submit a request for conference planning by filling out the form provided on the [UND Conference Planning Request page](https://und.edu/academics/conference-services/non-und-services.html).
+
+query: What should I do before planning an event on campus?
+response: Before planning an event on campus, familiarize yourself with the information and approval forms by reviewing the [UND Guide for a Successful Event](https://und.edu/academics/conference-services/guidelines.html).
+
+query: Can you provide details about upcoming conferences?
+response: Here are some upcoming conferences: 1. 2024 North Dakota Geospatial Summit on September 25-26 at the Bismarck Event Center, 2. 2024 South Dakota Infection Control Conference on October 3-4, in-person or virtual in Rapid City, SD, 3. 2024 ND Water & Pollution Control Conference from October 14-16 at Alerus Center in Grand Forks, ND, 4. 2024 Tax Practitioners' Institute on November 20-21 at Holiday Inn in Fargo, ND.
+
+query: What is the contact information for Conference, Camp & Event Services?
+response: You can contact Conference, Camp & Event Services at O'Kelly Hall Room 300, 221 Centennial Drive Stop 9021, Grand Forks, ND 58202. Phone: 701.777.4888, Email: und.conferences@UND.edu.
+
+query: What types of marketing services are available for events?
+response: The marketing services available for events include assistance with writing, design, and printing of materials like postcards, posters, brochures, and handouts. They can also create a website listing event details and coordinate digital marketing efforts such as email blasts and social media advertising.
+
+query: What is included in on-site event coordination?
+response: On-site event coordination includes setting up and staffing the registration desk, checking in pre-registered participants, processing walk-on registrations, distributing conference materials, answering general questions, furnishing office supplies, and assisting with the tear-down of the registration area.
+
+query: How can I request catering services for my event?
+response: To request catering services for your event, contact Dining Services at 701.777.3895 or visit their website for more information on menu options and pricing.
+
+query: What should I include in my event budget?
+response: Your event budget should include costs for venue rental, catering, marketing materials, speaker fees, audio-visual equipment, decorations, transportation, and any additional services required for the event.
+
+query: Is there a way to get continuing education credits for attending conferences?
+response: Yes, many conferences offer continuing education credits. You should check the conference details or contact the event organizer for specific information on credits available for that event.
+
+query: What kind of post-event analysis is provided?
+response: Post-event analysis typically includes gathering feedback from attendees, analyzing attendance data, evaluating the event budget, and assessing overall event success against the initial goals and objectives.
+
+query: Can I hold a personal event on campus?
+response: Yes, personal events can be held on campus, but you will need to follow the approval process and secure the appropriate permits. Check with Conference, Camp & Event Services for guidelines.
+
+query: What are the guidelines for hosting an event with external speakers?
+response: When hosting an event with external speakers, ensure you have the necessary permissions, confirm speaker availability, and communicate any requirements they may have regarding equipment or accommodations. Additionally, you may need to arrange for contracts and fees.
+
+query: How do I promote my event effectively?
+response: To promote your event effectively, utilize a mix of digital marketing strategies such as social media advertising, email marketing, and creating an event webpage. Additionally, consider traditional marketing methods like flyers and posters, and collaborate with relevant organizations or departments to reach a wider audience.
+
+query: What should I do if I need to cancel my event?
+response: If you need to cancel your event, notify all participants as soon as possible, follow the cancellation policies of your venue and service providers, and communicate with Conference, Camp & Event Services to assist with the cancellation process.
+
+query: What are the best practices for event registration?
+response: Best practices for event registration include providing an easy-to-navigate online registration form, offering early bird pricing, sending confirmation emails, and allowing for on-site registration. Make sure to collect essential information, such as attendee names, contact details, and any special requirements.
+
+query: How can I ensure my event is accessible to everyone?
+response: To ensure your event is accessible, choose venues that comply with ADA standards, provide materials in multiple formats, offer accommodations for individuals with disabilities, and communicate your accessibility options in promotional materials.
+
+query: What kind of insurance do I need for my event?
+response: The type of insurance needed for your event may include general liability insurance, liquor liability insurance (if serving alcohol), and property insurance. Consult with an insurance professional to assess your specific needs.
+
+query: How do I handle food allergies for my event?
+response: To handle food allergies, collect information on dietary restrictions during the registration process, communicate these needs to your caterer, and provide clearly labeled food options at your event.
+
+query: What is the process for reserving a space on campus for my event?
+response: To reserve a space on campus for your event, complete a facility reservation request form, submit it to Conference, Camp & Event Services, and wait for confirmation. Be sure to check for any specific requirements or policies regarding the venue.
+
+query: Can I use university branding for my event?
+response: Yes, you can use university branding for your event, but you must adhere to the university's branding guidelines and obtain approval from the appropriate office before using logos or trademarks.
+
+query: What are some common mistakes to avoid when planning an event?
+response: Common mistakes to avoid when planning an event include poor communication with stakeholders, neglecting to set a clear budget, failing to promote the event adequately, and not having contingency plans in place for unforeseen circumstances.
+
+query: How do I evaluate the success of my event?
+response: Evaluate the success of your event by analyzing attendance numbers, collecting feedback from attendees through surveys, measuring engagement levels, and comparing actual expenses to your budget. Assess whether you met your event goals and objectives.
+
+query: What resources are available for event planners on campus?
+response: Resources available for event planners on campus may include Conference, Camp & Event Services, marketing and promotional support, catering services, audiovisual equipment rental, and access to venue space and facilities.

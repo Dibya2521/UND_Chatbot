@@ -27,6 +27,7 @@ class DBManager:
         dummy_texts = ["Dummy text for init"]
         db = FAISS.from_texts(dummy_texts, self.embedder)
         logger.info("Created new DB")
+        self._save_db(db)
         return db
 
     @time_it
@@ -39,7 +40,7 @@ class DBManager:
             texts = [doc.page_content for doc in documents]
             metadatas = [doc.metadata for doc in documents]
             self.db.add_texts(texts, metadatas=metadatas)
-            self._save_db()
+            self._save_db(self.db)
             logger.info(f"Added {len(documents)} docs to DB")
         except Exception as e:
             logger.error(f"Error adding docs to DB: {str(e)}")
@@ -55,11 +56,11 @@ class DBManager:
             logger.error(f"Error searching DB: {str(e)}")
             return []
 
-    def _save_db(self):
+    def _save_db(self, db):
         os.makedirs(os.path.dirname(self.db_file), exist_ok=True)
         try:
             with open(self.db_file, "wb") as f:
-                pickle.dump(self.db, f)
+                pickle.dump(db, f)
             logger.info("DB saved")
         except Exception as e:
             logger.error(f"Error saving DB: {str(e)}")
